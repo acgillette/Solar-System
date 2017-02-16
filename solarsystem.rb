@@ -1,3 +1,7 @@
+#Solar System is a program that creates a solar system
+#Consisting of different planets, and then outputs
+#Information about the planets for the user
+
 #Making the class Planet, which takes in information about each planet
 class Planet
   attr_reader :name, :diameter, :mass, :moons, :distance_from_sun,
